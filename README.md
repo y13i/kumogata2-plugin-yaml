@@ -5,7 +5,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "kumogata2-plugin-yaml", git: "https://github.com/y13i/kumogata2-plugin-yaml.git"
+gem "kumogata2-plugin-yaml"
 ```
 
 ## Usage
